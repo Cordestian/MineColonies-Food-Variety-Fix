@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# NeoForge run directories
+run/
+runs/
+
+# Local dependency JARs
+libs/*.jar
+
+# Generated local repository
+repo/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
