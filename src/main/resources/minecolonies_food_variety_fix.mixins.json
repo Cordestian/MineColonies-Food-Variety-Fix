@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.cordestian.minecoloniesfoodvarietyfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CitizenFoodHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
